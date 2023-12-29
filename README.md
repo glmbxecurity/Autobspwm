@@ -8,7 +8,8 @@
 # Uso del Script 
 
 ```bash
-git clone https://github.com/Lafassj/KaliLafa.git && cd KaliLafa && chmod +x install.sh && ./install.sh
+git clone https://github.com/Lafassj/KaliLafa.git && cd KaliLafa && chmod +x install.sh
+./install.sh
 ```
 Este Script esta diseñado para solo funcionar en Kali Linux
 
